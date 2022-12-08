@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hsuan1212
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding and swimming
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...discord bot
 - 📫 How to reach me ...:)
